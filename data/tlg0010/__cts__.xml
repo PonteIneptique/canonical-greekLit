@@ -2,5 +2,6 @@
 <ti:textgroup xmlns:ti="http://chs.harvard.edu/xmlns/cts" projid="greekLit:tlg0010" urn="urn:cts:greekLit:tlg0010">
     
    <ti:groupname xml:lang="eng">Isocrates</ti:groupname>
+   <ti:groupname xml:lang="fr">Isocrate</ti:groupname>
     
 </ti:textgroup>
