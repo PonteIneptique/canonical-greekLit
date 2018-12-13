@@ -4,7 +4,13 @@
    <ti:groupname xml:lang="en">Thucydides</ti:groupname>
         
    <ti:groupname xml:lang="eng">Thucydides</ti:groupname>
-        
+   
+   <ti:groupname xml:lang="fr">Thucydide</ti:groupname>   
+  
    <ti:groupname>Thucydides</ti:groupname>
         
+   <cpt:structured-metadata xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:identifier>https://www.wikidata.org/wiki/Q41683</dc:idenfier>
+   </cpt:structured-metadata>
+
 </ti:textgroup>
